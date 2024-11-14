@@ -15,11 +15,13 @@ Rock Paper Scissors is a simple hand game typically played between two people. U
    - Paper (an open hand)
    - Scissors (a fist with the index and middle fingers extended to form a "V").
 
-The players make a choice by counting down and then revealing their shape simultaneously. The winner is determined depending on the various outcomes dependent on the shapes displayed by each player.
+The players make a choice by counting down and then revealing their shape simultaneously. Rock beats scissors. Scissors beats paper. Paper beats rock.
 
-This is an implementation of the Rock Paper Scissors game using a trained teachable-machine model that allows a single user to compete with the computer.
+The player who shows the first option that beats the other player's option wins.
 
-The aim of the project is to produce a version of the Rock Paper Scissors game that is simple and clear for a single user to play.
+This is an implementation of an interactive Rock-Paper-Scissors game, in which the user can play with the computer using the camera.
+
+The aim of the project is to produce a version of the Rock-Paper-Scissors game that is simple and clear for a single user to play.
 
 While completing this project, I have learnt...
 
